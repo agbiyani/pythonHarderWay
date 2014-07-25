@@ -1,0 +1,4 @@
+Hi this is a test file for exercise20.py
+You are doing a good job.
+Keep it up.
+Stop procrastinating! Will you?
